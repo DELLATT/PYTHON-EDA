@@ -1,5 +1,7 @@
 # PYTHON-EDA
  FULL PYTHON ANALYSIS PROJECT
+
+
 ABC Company Employee Analysis Project
 Introduction
 The ABC Company Employee Analysis Project aims to explore and understand the workforce composition, salary distribution, and age demographics within the organization. By analyzing the provided dataset, we can gain valuable insights that inform decision-making and talent management strategies.
